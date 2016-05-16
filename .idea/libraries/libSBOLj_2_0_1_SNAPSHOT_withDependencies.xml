@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libSBOLj-2.0.1-SNAPSHOT-withDependencies">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/libSBOLj-2.0.1-SNAPSHOT-withDependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
