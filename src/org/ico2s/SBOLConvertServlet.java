@@ -1,4 +1,4 @@
-package org.ico2s.sbol_convert_servlet;
+package org.ico2s;
 
 import org.sbolstandard.core2.SBOLConversionException;
 import org.sbolstandard.core2.SBOLDocument;
